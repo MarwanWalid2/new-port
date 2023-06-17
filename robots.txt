@@ -9,4 +9,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://marwanabdelhameed.netlify.app/home/sitemap.xml
+Sitemap: https://marwanabdelhameed.netlify.app/sitemap.xml
